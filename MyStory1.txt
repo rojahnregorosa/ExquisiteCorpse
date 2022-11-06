@@ -1,1 +1,0 @@
-Hello this is Lab 8 to learn how to use git. 

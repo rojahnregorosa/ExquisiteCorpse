@@ -1,0 +1,1 @@
+This is MyStory3.txt for Lab 8 to learn how to use git. 
